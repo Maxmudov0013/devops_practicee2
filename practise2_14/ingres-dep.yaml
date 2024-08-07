@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ingress
+  labels:
+    name: flaskapp-nodeport
+spec:
+  ingressClassName: nginx
+  rules:
+  - host: amahmudov.nvrbckdown.uz
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: flaskapp-nodeport
+            port: 
+              number: 80

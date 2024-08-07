@@ -1,0 +1,1 @@
+{"domain":"amahmudov.nvrbckdown.uz","endpoint":"/check-ingress","full_path:":"amahmudov.nvrbckdown.uz/check-ingress"}

@@ -1,0 +1,7 @@
+NAMESPACE             NAME                                READY   STATUS    RESTARTS   AGE
+a-taniqulov           nginx-named-port-f956bb7c6-v72pn    1/1     Running   0          9m36s
+practice-a-maxmudov   nginx-named-port-758cc54658-hd9sz   1/1     Running   0          34s
+practice-a-maxmudov   nginx-named-port-758cc54658-pgqgd   1/1     Running   0          36s
+practice-doston       nginx-named-port-97785d7bd-sfjbw    1/1     Running   0          36m
+practice-g-ravshan    nginx-named-port-8884996f7-4fzgs    1/1     Running   0          52m
+x-namozov             nginx-named-port-5c77677f7f-68zft   1/1     Running   0          45m

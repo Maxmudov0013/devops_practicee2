@@ -1,0 +1,3 @@
+root@nginx-deploy-544b767cbb-vqfh6:/# curl 10.233.71.23:5000
+{"env":"staging","http_port":"80","string":"Welcome to DevOps Course!"}
+root@nginx-deploy-544b767cbb-vqfh6:/# 

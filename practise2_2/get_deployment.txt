@@ -1,0 +1,2 @@
+NAME           READY   UP-TO-DATE   AVAILABLE   AGE
+nginx-deploy   2/2     2            2           2m12s
